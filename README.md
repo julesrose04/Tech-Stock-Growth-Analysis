@@ -1,5 +1,5 @@
 # Tech-Stock-Growth-Analysis
-Analyzed top stock companies performance from March 2024-2025. We use `curve_fit` in SciPy to find the best fit parameters for our data.
+Analyzed top tech companies stock performance from March 2024-2025. We use `curve_fit` in SciPy to find the best fit parameters for our data.
 
 The functions we used for growth over time is the continuous compounding function: 
 $$
